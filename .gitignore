@@ -1,3 +1,9 @@
+# My rules
+*.pdf
+*.txt
+*.doc
+cmake-build-debug/
+
 # Prerequisites
 *.d
 
